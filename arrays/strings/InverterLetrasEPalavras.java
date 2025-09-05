@@ -1,6 +1,5 @@
-package strings;
 
-/*temos uma string e queremos inverter todas as Letras da Palavra e a Palavra nesse texto 
+/*As palavras trocam de posição e cada palavra tem as letras invertidas.
 -------------
 C|A|T| |A|R|T|
 -------------
