@@ -3,9 +3,6 @@
 
 Aqui você encontrará exercícios resolvidos em **JAVA**, focando estruturas de dados, lógica, análise de complexidade e boas práticas de programação. O intuito é aprofundar o entendimento sobre como escolher e implementar algoritmos que sejam otimizados para diferentes problemas.
 
-Aqui você encontrará exercícios resolvidos em Java, focando em lógica, análise de complexidade e boas práticas de programação. O intuito é aprofundar o entendimento sobre como escolher e implementar algoritmos que sejam otimizados para diferentes problemas.
-
-
 ## Estrutura
 Cada pasta representa uma categoria de algoritmos, estrutura de dados ou exercícios de plataformas. 
 
