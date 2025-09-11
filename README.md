@@ -3,7 +3,11 @@
 
 Este repositório tem como objetivo principal estudar e praticar algoritmos e estruturas de dados, entendendo como desenvolver soluções eficientes e com melhor complexidade de tempo.
 
+<<<<<<< HEAD
 Aqui você encontrará exercícios resolvidos em **JAVA**, focando em lógica, análise de complexidade e boas práticas de programação. O intuito é aprofundar o entendimento sobre como escolher e implementar algoritmos que sejam otimizados para diferentes problemas.
+=======
+Aqui você encontrará exercícios resolvidos em Java, focando em lógica, análise de complexidade e boas práticas de programação. O intuito é aprofundar o entendimento sobre como escolher e implementar algoritmos que sejam otimizados para diferentes problemas.
+>>>>>>> 179d819a7ad6215b0a837aa8eb66c26ccc6bef0e
 
 ## Estrutura
 Cada pasta representa uma categoria de algoritmos, estrutura de dados ou exercícios de plataformas. 
